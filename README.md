@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 I’m currently working on Web Dev and Data Science
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning dynamic programming.
 - 👯 I’m looking to collaborate on open source projects.
-- 🌱 &nbsp; Enthusiast in Web Dev and Machine Learning.
+- 🌱 Enthusiast in Web Dev and Machine Learning.
 - 💬 Ask me about my favorite programming language.
 - ⚡ Fun fact : Nobody ever won a chess game by resigning.
 
