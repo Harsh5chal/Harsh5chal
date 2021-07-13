@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Harsh 👋 </h2>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75268993/125489367-a55a61cb-e5b0-4a77-9e2f-350bff3744e6.png" width="400"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75268993/125489367-a55a61cb-e5b0-4a77-9e2f-350bff3744e6.png" width="500"/>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 I’m currently working on Web Dev and Data Science
