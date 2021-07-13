@@ -19,9 +19,9 @@
 
 
 <h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/harsh-panchal-1a878014a/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:harsh5chal12345@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-&nbsp; <a href="https://harsh5chal.github.io/" target="_blank" rel="noopener noreferrer"><img <img src="https://img.icons8.com/plasticine/100/000000/chrome.png" width="50" /></a>
+<p>
+&emsp; <a href="https://www.linkedin.com/in/harsh-panchal-1a878014a/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&emsp; <a href="mailto:harsh5chal12345@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&emsp; <a href="https://harsh5chal.github.io/" target="_blank" rel="noopener noreferrer"><img <img src="https://img.icons8.com/plasticine/100/000000/chrome.png" width="50" /></a>
 </p>
+
