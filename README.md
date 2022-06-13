@@ -2,18 +2,18 @@
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75268993/125508340-20eb6b55-570a-4ee4-8a16-7c5ed620162c.png" width="400"/>
 <h3>👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working on Web Dev and Data Science
-- 🌱 I’m currently learning dynamic programming.
-- 👯 I’m looking to collaborate on open source projects.
-- 🌱 Enthusiast in Web Dev and Machine Learning.
+- 🔭 I’m currently working on Web Apps and Mobile Apps.
+- 🌱 I’m currently learning Android Development.
+- 👯 I’m looking to collaborate on some side projects.
+- 🌱 Enthusiast in Web Development and Machine Learning.
 - 💬 Ask me about my favorite programming language.
 - ⚡ Fun fact : Nobody ever won a chess game by resigning.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C  | C++ | Python   
-- 🌐 &nbsp; HTML | CSS | JavaScript | Angular | Android | flutter
-- 🛢 &nbsp; DBMS | MySQL | ER Daigrams
+- 💻 &nbsp; C  | C++ | Python    
+- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | Angular | Android
+- 🛢 &nbsp; DBMS | MongoDB | NoSQL | MySQL | ER Daigrams
 - 🔧 &nbsp; Visual Studio code | Jupyter Notebook | Android Studio | PyCharm | Git            
 
 
